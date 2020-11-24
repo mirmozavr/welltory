@@ -1,6 +1,7 @@
 # welltory
 welltory job application test
 
+(duplicate of log.txt)
 
 1
 File: 1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json
